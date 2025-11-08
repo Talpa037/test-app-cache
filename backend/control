@@ -1,0 +1,8 @@
+Package: backend
+Version: 1.0
+Section: custom
+Priority: optional
+Architecture: amd64
+Depends: 
+Maintainer: user <user@example.com>
+Description: Go backend for test app
